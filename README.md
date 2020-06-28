@@ -1,7 +1,7 @@
 
 # Flutter Radio App
 
-Hey, This is an app demosntarting internet radio streaming in flutter. Have a look.
+Hey, This is an app demonstarting online radio streaming in flutter. Have a look.
 
 # Demo
 
