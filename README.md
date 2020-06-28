@@ -1,7 +1,13 @@
-<<<<<<< HEAD
-# remotemusic
 
-A new Flutter project.
+# Flutter Radio App
+
+Hey, This is an app demosntarting internet radio streaming in flutter. Have a look.
+
+# Demo
+
+Catch the demo in this video.<br>
+[![Watch the video](https://img.youtube.com/vi/F6TLx_KavT4/hqdefault.jpg)](https://youtu.be/F6TLx_KavT4)
+
 
 ## Getting Started
 
